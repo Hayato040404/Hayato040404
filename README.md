@@ -1,6 +1,9 @@
-# posts
-[![ProtoPedia posts](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=hayato040404&post=true)](https://protopedia.net/prototyper/hayato040404)
-# views
-[![ProtoPedia views](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=hayato040404&view=true)](https://protopedia.net/prototyper/hayato040404)
-# good
-[![ProtoPedia good](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=hayato040404&good=true)](https://protopedia.net/prototyper/hayato040404)
+## Hi there 👋
+
+<!--
+**Hayato040404/Hayato040404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+Create an earthquake BOT or a hobby blog.......??
+-->
